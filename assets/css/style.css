@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-image: url(./../img/campbell-3ZUsNJhi_Ik-unsplash.jpg);
+    background-repeat: no-repeat;
+    width: 70vw;
+    height: 60vh;
+    padding: 20vh;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    background-color: rgba(240, 248, 255, 0.605);
+    text-align: center;
+    padding: 10vh;
+    font-size: 3rem;
+}
+
+nav{
+    padding: 10vh;
+}
